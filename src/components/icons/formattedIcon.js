@@ -2,6 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import {
   IconAppStore,
+  IconBatman,
   IconCodepen,
   IconExternal,
   IconFolder,
@@ -22,6 +23,8 @@ const FormattedIcon = ({ name }) => {
   switch (name) {
     case 'AppStore':
       return <IconAppStore />;
+    case 'Batman':
+      return <IconBatman />;
     case 'Codepen':
       return <IconCodepen />;
     case 'External':

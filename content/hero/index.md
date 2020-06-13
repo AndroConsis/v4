@@ -1,8 +1,8 @@
 ---
 title: 'Hi, my name is'
-name: 'Brittany Chiang'
-subtitle: 'I build things for the web.'
+name: 'Prateek Rathore'
+subtitle: 'I build things for the 💻 & 📱'
 buttonText: 'Get In Touch'
 ---
 
-I'm a software engineer based in Boston, MA specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.
+I'm a software engineer based in Pune, India specializing in building (and occasionally designing) exceptional, mobile applications, websites, and everything in between.
