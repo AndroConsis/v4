@@ -256,7 +256,7 @@ const Featured = ({ data }) => {
                         target="_blank"
                         rel="nofollow noopener noreferrer"
                         aria-label="GitHub Link">
-                        <FormattedIcon name="GitHub" />
+                        <FormattedIcon name="AppStore" />
                       </a>
                     )}
                     {external && (
@@ -265,7 +265,7 @@ const Featured = ({ data }) => {
                         target="_blank"
                         rel="nofollow noopener noreferrer"
                         aria-label="External Link">
-                        <FormattedIcon name="External" />
+                        <FormattedIcon name="PlayStore" />
                       </a>
                     )}
                   </StyledLinkWrapper>

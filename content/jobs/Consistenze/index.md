@@ -1,7 +1,7 @@
 ---
 date: '2015-07-01'
 title: 'Associate Software Engineer'
-company: 'Consistenza Technology'
+company: 'Consistenza'
 location: 'Pune'
 range: 'May 2015 - July 2016'
 url: 'https://www.consistenza.com/'

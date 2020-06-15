@@ -4,7 +4,7 @@ title: 'Software Engineer'
 company: 'Keriton'
 location: 'Pune (Remote)'
 range: 'Aug 2016 - Feb 2017'
-url: 'https://web.northeastern.edu/scout/'
+url: 'https://www.keriton.com/'
 ---
 
 - Worked with a team of four developer to build a mobile applications for [Keriton](http://keriton.com)

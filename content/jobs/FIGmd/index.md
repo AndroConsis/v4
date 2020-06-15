@@ -4,7 +4,7 @@ title: 'Software Engineer'
 company: 'FIGmd'
 location: 'Pune, India'
 range: 'Jan 2018 - Present'
-url: 'www.figmd.com/'
+url: 'http://figmd.com/'
 ---
 
 - Developing and maintaining couple of ReactJS projects.
